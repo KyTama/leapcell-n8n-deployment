@@ -1,0 +1,11 @@
+{
+    "name": "leapcell-n8n-engine",
+    "version": "1.0.0",
+    "description": "Serverless n8n deployment",
+    "scripts": {
+        "start": "n8n start"
+    },
+    "dependencies": {
+        "n8n": "latest"
+    }
+}
