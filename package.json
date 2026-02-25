@@ -6,6 +6,6 @@
         "start": "n8n start"
     },
     "dependencies": {
-        "n8n": "^1.134.0"
+        "n8n": "^1.123.0"
     }
 }
